@@ -1,6 +1,5 @@
 # geolocation-cities
-geolocation cities of Belarus
-Список населенных пунктов Беларуси и их географические координаты.		
+geolocation cities of Belarus		
 		
 Количество населенных пунктов: 21088		
 Дата: 01-09-2019		
